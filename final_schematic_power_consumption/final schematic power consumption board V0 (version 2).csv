@@ -1,0 +1,22 @@
+Part;Value;Device;Package;Description;;;;;;;;
+C1;4700µ;CPOL-EU153CLV-0505;153CLV-0505;POLARIZED CAPACITOR, European symbol;;2346507;;;;;;https://be.farnell.com/rubycon/16pk4700mefc12-5x25/cap-4700-f-16v-20/dp/2346507
+C2;10µ;CPOL-EU153CLV-0505;153CLV-0505;POLARIZED CAPACITOR, European symbol;;9697012;;;;;;https://be.farnell.com/panasonic/eee1va100sr/cap-10-f-35v-radial-smd/dp/9697012
+C3;10µ;CPOL-EU153CLV-0505;153CLV-0505;POLARIZED CAPACITOR, European symbol;;9697012;;;;;;https://be.farnell.com/panasonic/eee1va100sr/cap-10-f-35v-radial-smd/dp/9697012
+C5;0.1µ;C-EUC1206;C1206;CAPACITOR, European symbol;;2211074;;;;;;https://be.farnell.com/tdk/cga5l2c0g1h104j160aa/cap-0-1-f-50v-5-c0g-np0-1206/dp/2211074
+C6;10µ;C-EUC1206;C1206;CAPACITOR, European symbol;;1907353;;;;;;https://be.farnell.com/tdk/c3216x7r1c106k160ac/cap-10-f-16v-10-x7r-1206/dp/1907353
+D1;ES2D;ES2D;SMB;DIODE;;1467491;;;;;;https://be.farnell.com/on-semiconductor/es2d/diode-fast-2a-200v-smd-do-214/dp/1467491?st=ES2D
+IC1;LC05111C02MTTTG;LC05111C02MTTTG;LC05111C02MTTTG;Battery Management 1 CELL LIB PROTECTION IC;;2728216;;;;;;https://be.farnell.com/on-semiconductor/lc05111c02mtttg/over-current-protector-li-ion/dp/2728216?st=LC05111C02MTTTG
+J1-SOLAR_IN;;CONN-HEADER-SMD-PH-SIDE-(2P-2.0MM);HW2-SMD-2.0-90D;320110026;;;;;;;;
+R4;270k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447313;;;;;;https://be.farnell.com/multicomp/mcwr06x2703ftl/res-270k-1-0-1w-thick-film/dp/2447313
+R5;100k;R-EU_R0603;R0603;RESISTOR, European symbol;;1692517;;;;;;https://be.farnell.com/vishay/crcw0603100kjnea/res-100k-5-0-1w-0603-thick-film/dp/1692517
+R6;2k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447319;;;;;;https://be.farnell.com/multicomp/mcwr06x2001ftl/res-2k-1-0-1w-0603-thick-film/dp/2447319
+R7;100k;R-EU_R0603;R0603;RESISTOR, European symbol;;1692517;;;;;;https://be.farnell.com/vishay/crcw0603100kjnea/res-100k-5-0-1w-0603-thick-film/dp/1692517
+R8;1k;R-EU_R0603;R0603;RESISTOR, European symbol;;9238484;;;;;;https://be.farnell.com/yageo/rc0603fr-071kl/res-1k-1-0-1w-0603-thick-film/dp/9238484
+R9;10k;R-EU_R0603;R0603;RESISTOR, European symbol;;2861870;;;;;;https://be.farnell.com/te-connectivity/crgcq0603j10k/res-10k-5-0603-thick-film/dp/2861870
+R10;150k;R-EU_R0603;R0603;RESISTOR, European symbol;;2447254;;;;;;https://be.farnell.com/multicomp/mcwr06x1503ftl/res-150k-1-0-1w-thick-film/dp/2447254
+R13;1k2;R-EU_R1206W;R1206W;RESISTOR, European symbol;;3254959;;;;;;https://be.farnell.com/rohm/ltr18ezpj122/res-1k2-5-0-75w-1206-thick-film/dp/3254959
+R14;330R;R-EU_R1206W;R1206W;RESISTOR, European symbol;;3254970;;;;;;https://be.farnell.com/rohm/ltr18ezpj331/res-330r-5-0-75w-1206-thick-film/dp/3254970
+R15;2k7;R-EU_R1206W;R1206W;RESISTOR, European symbol;;3254908;;;;;;https://be.farnell.com/rohm/ltr18ezpf2701/res-2k7-1-0-75w-1206-thick-film/dp/3254908
+SV2;;MA04-1;MA04-1;PIN HEADER;;1667510;;;;;;https://be.farnell.com/samtec/ces-104-01-t-s/receptacle-2-54mm-single-4way/dp/1667510
+U$1;MCP73871_XXX_ML;MCP73871_XXX_ML;QFN20_4X4MC;;;1642489;;;;;;https://be.farnell.com/microchip/mcp73871-2cci-ml/ic-battery-management-cont-qfn20/dp/1642489?st=MCP73871
+U$3;MCP73833-FCI/MF;MCP73833-FCI/MF;SOP50P490X110-10N;;;1605576;;;;;;https://be.farnell.com/microchip/mcp73833-fci-un/ic-charge-control-li-ion-1a-msop/dp/1605576?st=MCP73833

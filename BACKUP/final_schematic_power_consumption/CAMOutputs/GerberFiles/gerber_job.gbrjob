@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-08T15:16:09Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "final schematic power consumption board"
+        },
+        "Owner": "Tom Van Hove <tom_van_hove@outlook.com>",
+        "Size": {
+            "X": 64.75,
+            "Y": 25.07
+        }
+    }
+}
