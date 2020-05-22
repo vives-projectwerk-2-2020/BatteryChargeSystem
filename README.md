@@ -2,6 +2,8 @@
 
 ## Project description
 
+This project is under the MIT license, view it here [MIT License](license.md)
+
 The concept of the this system is to charge some batteries with a solar panel. To supply the whole system.
 
 ## Explanation of my roadmap
